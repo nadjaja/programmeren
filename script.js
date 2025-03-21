@@ -38,7 +38,7 @@ function veranderBeerImage() {
         }
 
 }
-// Het terug zetten naar de default agbeelding en tekst
+// Het terug zetten naar de default afbeelding en tekst
 function resetBeer(){
     sadBeer.src= "img/sadBeer.png" // dit brengt de afbeeldingen weer terug naar origineele afbeelding
     beerStatus= 0; // dit zet de status weer op nul
