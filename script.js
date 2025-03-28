@@ -41,7 +41,7 @@ function veranderBeerImage(status) {
 
 // Het terug zetten naar de default afbeelding en tekst
 function resetBeer(){
-    sadBeerimg.src= "img/sadBeer.png" // dit brengt de afbeeldingen weer terug naar origineele afbeelding
+    sadBeerimg.src= "img/sadbeer.png" // dit brengt de afbeeldingen weer terug naar origineele afbeelding
     textElement.textContent = "Beertje heeft honger, geef hem wat te eten." // dit brengt net als bij de afbeelding de tekst weer naar zijn orginele tekst
 }
 
