@@ -1,5 +1,5 @@
 // Haalt elementen op uit de DOM 
-let sadBeerimg= document.getElementById("sadBeer")
+let sadBeerimg= document.getElementById("sadbeer")
 const cakeBtn= document.getElementById("cakeBtn")
 const soapBtn= document.getElementById("soapBtn")
 const sleepBtn= document.getElementById("sleepBtn")
